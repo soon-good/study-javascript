@@ -4,7 +4,7 @@
 
 Node.js로 RabbitMQ의 Queue를 읽어들여서 실시간 데이터를 UI에 보여주는 것을 짧게나마 만들어봐야 해서 정리를 시작했다. <br>
 
-Java 개발자라 node.js 보다는 thymeleaf, javascript, jquery를 사용할일이 매우 많다. node.js를 거의 실제로 사용할 기회가 없었지만, 이번 기회에 어떻게 기회가 생겼다. typeless 한 데이터를 저장하고 실시간 데이터를 뷰어로 보여주어야 해서 MongoDB기반으로 프로젝트를 구상하면서, mongodb와 찰떡궁합인 node.js 기반의 개발을 시작하게 되었다.<br>
+Java 개발자라 node.js 보다는 thymeleaf, javascript, jquery를 사용할일이 매우 많다. node.js를 거의 실제로 사용할 기회가 없었지만, 이번 기회에 어떻게 기회가 생겼다. typeless 한 데이터를 저장하고 실시간 데이터를 뷰어로 보여주어야 해서 MongoDB기반으로 프로젝트를 구상하면서, mongodb와 찰떡궁합인 node.js 기반의 개발을 시작하게 되었다. RabbitMQ도 연동해야 해서, 관련 내용도 정리하면서 study-rabbitmq 저장소도 한번 싹다 갈아엎겠다 싶었다.<br>
 
 <br>
 
