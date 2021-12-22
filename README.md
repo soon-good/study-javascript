@@ -20,7 +20,7 @@ Java 개발자라 node.js 보다는 thymeleaf, javascript, jquery를 사용할�
 
 - essential
 
-  - [화살표함수](.)
+  - [화살표함수](https://github.com/gosgjung/study-javascript/blob/main/1-%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
 
   - [Promise](,)
 
